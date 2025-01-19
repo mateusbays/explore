@@ -1,9 +1,0 @@
-{
-  "name": "iac-modules-gcp-vpc",
-  "$schema": "../../../../node_modules/nx/schemas/project-schema.json",
-  "sourceRoot": "libs/iac-modules/gcp-vpc",
-  "projectType": "library",
-  "implicitDependencies": [],
-  "targets": {},
-  "tags": []
-}
